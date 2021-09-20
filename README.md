@@ -1,0 +1,2 @@
+# LocalConnection
+IPC with QLocalSocket
